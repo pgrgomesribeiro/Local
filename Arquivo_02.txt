@@ -1,0 +1,5 @@
+*** Criando Repositório a partir do PC ***
+
+1- Criar uma pasta local
+2- Abrir o Git Bash Here dentro da Pasta criada
+3- Executar o comando git init no Git Bash Here
