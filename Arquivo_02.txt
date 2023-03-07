@@ -1,5 +1,8 @@
 *** Criando Repositório a partir do PC ***
 
-1- Criar uma pasta local
-2- Abrir o Git Bash Here dentro da Pasta criada
-3- Executar o comando git init no Git Bash Here
+1- Criar uma pasta local onde serão armazenados os arquivos.
+2- Abrir o Git Bash Here dentro da Pasta criada.
+3- Executar o comando git init no Git Bash Here (Cria o repositório).
+4- Realizar a conexão entre o repositório local e o repositório no GitHub.
+5- A conexão é realizada a partir da linha de comando: git remote add origin https://github.com/pgrgomesribeiro/Local.git
+
